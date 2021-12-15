@@ -1,0 +1,5 @@
+hello: 5 
+max: 6 
+vineeth: 5 
+mahesh: 4
+: 1
